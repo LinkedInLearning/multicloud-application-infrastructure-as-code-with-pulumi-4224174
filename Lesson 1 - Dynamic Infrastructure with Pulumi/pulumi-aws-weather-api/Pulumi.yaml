@@ -1,3 +1,0 @@
-name: pulumi-aws-weather-api
-runtime: nodejs
-description: A minimal AWS TypeScript Pulumi program
